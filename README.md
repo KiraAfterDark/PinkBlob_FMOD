@@ -1,2 +1,2 @@
 # PinkBlob_FMOD
-Repo for anything related to audio for the Pink Blob project.
+Untiy project repo can be found at https://github.com/samdinan/PinkBlob_Unity/blob/main/README.md
