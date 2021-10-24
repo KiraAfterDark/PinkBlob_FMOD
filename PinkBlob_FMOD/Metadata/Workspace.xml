@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="Workspace" id="{4bd2c4da-40b9-4e08-bd30-054462c56720}">
+		<property name="builtBanksOutputDirectory">
+			<value>../../PinkBlob_Unity/Assets/Audio/Soundbanks</value>
+		</property>
+		<property name="builtBanksSeparateAssets">
+			<value>true</value>
+		</property>
+		<property name="builtBanksEncryptionKey" />
+		<relationship name="masterEventFolder">
+			<destination>{0ed538d1-d359-42ba-98a1-1aa60f3a4720}</destination>
+		</relationship>
+		<relationship name="masterTagFolder">
+			<destination>{ff4efff4-f910-4129-b926-3b1707e1af3b}</destination>
+		</relationship>
+		<relationship name="masterEffectPresetFolder">
+			<destination>{ebb829e7-6f4f-4956-894c-bfbd8b252317}</destination>
+		</relationship>
+		<relationship name="masterParameterPresetFolder">
+			<destination>{89b68bb0-adde-41ac-a31b-4e073ca04bef}</destination>
+		</relationship>
+		<relationship name="masterBankFolder">
+			<destination>{fec48c94-8ad7-4ad6-9fcc-cfb885426cf1}</destination>
+		</relationship>
+		<relationship name="masterSandboxFolder">
+			<destination>{a3190ba6-9649-4bae-8a0d-f7987356cb51}</destination>
+		</relationship>
+		<relationship name="masterAssetFolder">
+			<destination>{5b669c12-3c1b-4c7f-9c69-b9e600b23458}</destination>
+		</relationship>
+		<relationship name="mixer">
+			<destination>{aeccdcd2-fd55-4b63-bfc4-21cfb61b42b0}</destination>
+		</relationship>
+		<relationship name="profilerSessionFolder">
+			<destination>{2bcea0e9-2a3d-4d1f-8a9b-6c3f20fb0604}</destination>
+		</relationship>
+		<relationship name="platforms">
+			<destination>{03e22e4b-d768-45d3-a2f0-d3820a787959}</destination>
+		</relationship>
+	</object>
+</objects>
